@@ -1,2 +1,4 @@
 # leetcode-problem-solving
-solving one problem in leetcode per day
+try to solve one leetcode question per day - start from 2022/01/01
+
+## problem lists
