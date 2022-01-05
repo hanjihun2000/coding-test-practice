@@ -4,3 +4,4 @@
 
 1. [Two Sum](./TwoSum)
 2. [Add Two Numbers](./AddTwoNumbers)
+3. [Longest Substring Without Repeating Characters](./LongestSubstringWithoutRepeatingCharacters)
