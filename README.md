@@ -1,4 +1,8 @@
-# Leetcode Problem Solving
+# LeetCode Problem
+
+**Objective**: Solving [LeetCode Problems](https://leetcode.com/problemset/all/) by myself to broaden my problem solving skill. 
+
+A list below is my sample solution (algorithmic approach) to each question, but this does not guarantee the **FASTEST** and **BEST** solution. Tackle each question by yourself first and get some hints from others if you are stuck on the question.
 
 ## Problem lists
 
