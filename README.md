@@ -11,4 +11,4 @@ A list below is my sample solution (algorithmic approach) to each question, but 
 - **#3** [Longest Substring Without Repeating Characters](./LongestSubstringWithoutRepeatingCharacters) - Python
 - **#5** [Longest Palindromic Substring](./LongestPalindromicSubstring) - Python
 - **#6** [Zigzag Conversion](./ZigzagConversion) - Python
-- **#7** [Reverse Integer](./ReverseInteger) - C
+- **#7** [Reverse Integer](./ReverseInteger) - C, Python
