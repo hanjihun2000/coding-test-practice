@@ -12,3 +12,4 @@ A list below is my sample solution (algorithmic approach) to each question, but 
 - **#5** [Longest Palindromic Substring](./LongestPalindromicSubstring) - Python
 - **#6** [Zigzag Conversion](./ZigzagConversion) - Python
 - **#7** [Reverse Integer](./ReverseInteger) - C, Python
+- **#8** [String To Integer](./StringToInteger) - Python
