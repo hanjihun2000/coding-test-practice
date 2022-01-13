@@ -4,6 +4,7 @@ class Solution:
         sign = 1
         hasSign = False
         res = []
+
         MAX = 2 ** 31 - 1
         MIN = -(2 ** 31)
 
@@ -22,7 +23,6 @@ class Solution:
             if ord(s[i]) > 57 or ord(s[i]) < 48:
                 break
             res.append(s[i])
-
         # No digits were read (only strings)
         if len(res) == 0:
             ans = 0
