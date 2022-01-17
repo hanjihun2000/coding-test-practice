@@ -2,9 +2,9 @@
 
 **Objective**: Solving [LeetCode Problems](https://leetcode.com/problemset/all/) by myself to broaden my problem solving skill. 
 
-A list below is my sample solution (algorithmic approach) to each question, but this does not guarantee the **FASTEST** and **BEST** solution. Tackle each question by yourself first and get some hints from others if you are stuck on the question.
+A problem list below is my sample solution(s) to each leetcode question, but I remind that this does not guarantee the **FASTEST** and **BEST** solution. Tackle each question by yourself first and get some hints from others if you are stuck on the question.
 
-## Problem lists
+## Problem list
 
 - **#1** [Two Sum](./TwoSum) - C, Python
 - **#2** [Add Two Numbers](./AddTwoNumbers) - C, Python
@@ -13,3 +13,4 @@ A list below is my sample solution (algorithmic approach) to each question, but 
 - **#6** [Zigzag Conversion](./ZigzagConversion) - Python
 - **#7** [Reverse Integer](./ReverseInteger) - C, Python
 - **#8** [String To Integer](./StringToInteger) - Python
+- **#9** [Palindrome Number](./PalindromeNumber) - Python
