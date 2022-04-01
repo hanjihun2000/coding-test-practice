@@ -1,10 +1,10 @@
-# LeetCode Problem
+# LeetCode
 
-**Objective**: Solving [LeetCode Problems](https://leetcode.com/problemset/all/) by myself to broaden my problem solving skill. 
-
-A problem list below is my sample solution(s) to each leetcode question, but I remind that this does not guarantee the **FASTEST** and **BEST** solution. Tackle each question by yourself first and get some hints from others if you are stuck on the question.
+[LeetCode](https://leetcode.com/problemset/all/) is one of the best online learning platforms to enhance problem solving skills and understand various programming algorithms that help us to get prepared for future coding tests and/or technical interviews.
 
 ## Problem list
+
+This problem list is a collection of my sample solutions to each LeetCode problem. Please remind that these solutions do not guarantee the **FASTEST** and **BEST** solutions. If you are struggling with solving a problem, feel free to get some hints from my sample solutions (if exists) and understand how I managed to figure out the answer(s).
 
 - **#1** [Two Sum](./TwoSum) - C, Python
 - **#2** [Add Two Numbers](./AddTwoNumbers) - C, Python
