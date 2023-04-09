@@ -5,6 +5,6 @@ Please remind that solutions uploaded here do not guarantee the **FASTEST** and 
 You can directly find and solve questions using the following instruction below:
 
 | coding test practice platforms | link to question | example |
-| --- | --- |
+| --- | --- | --- |
 | LeetCode | https://leetcode.com/problems/ + question-name | e.g. https://leetcode.com/problems/two-sum |
 | Programmers School | https://school.programmers.co.kr/learn/courses/30/lessons/ + number | e.g. https://school.programmers.co.kr/learn/courses/30/lessons/59045 |
