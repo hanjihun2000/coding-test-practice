@@ -1,10 +1,10 @@
-# Coding Test Practice Repo
+# Coding Test Practice
 
-Please remind that solutions uploaded here do not guarantee the **FASTEST** and **BEST** solutions. The source codes (or solutions) are coded by myself, and are all for reference only. If you are struggling with solving the programming problems, feel free to get some hints from my sample solutions and understand how I managed to figure out. 
+Please remind that my solutions do not guarantee the **fastest** and **best** solutions. If you are struggling with solving the programming problems, feel free to get some hints from my sample solutions and understand how I managed to figure it out. 
 
-You can directly find and solve questions using the following instruction below:
+You can directly find and solve questions using the following URLs with problem name/number:
 
-| coding test practice platforms | link to question | example |
-| --- | --- | --- |
-| LeetCode | https://leetcode.com/problems/ + question-name | e.g. https://leetcode.com/problems/two-sum |
-| Programmers School | https://school.programmers.co.kr/learn/courses/30/lessons/ + number | e.g. https://school.programmers.co.kr/learn/courses/30/lessons/59045 |
+| Platform | URL |
+| --- | --- |
+| LeetCode | https://leetcode.com/problems/ |
+| Programmers School | https://school.programmers.co.kr/learn/challenges |
